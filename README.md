@@ -1,2 +1,2 @@
 # OOPs
-I know about Object Oriented Programming
+I am familiar with Object Oriented Programming.
